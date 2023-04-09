@@ -5,12 +5,12 @@ format:
     keep-tex: true  
   tandf-html: default
 author:
-  - name: Michael J Mahoney
+  - name: José R. Caro-Barrera
     affiliations:
       - ref: GPES
-    orcid: 0000-0003-2402-304X
-    email: fake.email@fakeyfake.com
-    url: https://mm218.dev
+    orcid: 0000-0001-6154-2493
+    email: jrcaro@uco.es
+    url: https://www.uco.es
   - name: Another One
     affiliations:
       - ref: GPES
@@ -20,12 +20,12 @@ author:
       - ref: SRM
 affiliations:
   - id: GPES
-    name: State University of New York College of Environmental Science and Forestry
-    department: Graduate Program in Environmental Science
+    name: University of Córdoba
+    department: Statistics, Econometrics, Quantitative Methods, Applied Economics
     address: 1 Forestry Drive
-    city: Syracuse, NY
-    country: USA
-    postal-code: 13210
+    city: Córdoba
+    country: Spain
+    postal-code: 14001
   - id: SRM
     name: State University of New York College of Environmental Science and Forestry
     department: Department of Sustainable Resources Management
